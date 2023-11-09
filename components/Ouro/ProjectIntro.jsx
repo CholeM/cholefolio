@@ -41,7 +41,7 @@ export default function ProjectIntro() {
                 solutions.
               </Statement>
               <Statement title="The Problem">
-                The CEO of Ouro approached me to revamp the company's website.
+                The CEO of Ouro approached me to revamp the company&apos;s website.
                 Their website at the time was outdated and with many
                 non-functional pages. The website essetianlly could not be used.
                 They wanted the site to be a hub for all information related to
@@ -54,7 +54,7 @@ export default function ProjectIntro() {
                 accessible to approved employees and clients. The portal should
                 include tools to manage client status and allow for file uploads
                 and downloads, newsletter access, and product updates. The
-                website should be responsive and reflect Ouro's brand while
+                website should be responsive and reflect Ouro&apos;s brand while
                 providing easy access to the necessary features.
               </Statement>
               <Statement title="Results">

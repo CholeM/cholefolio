@@ -25,7 +25,7 @@ export default function Final() {
             </div>
             <VisualPoints title="Homepage, Meal, Favourites">
               When a user enters the app, they are met with the homepage of the
-              app, displaying the day's special for quick ordering, the ability
+              app, displaying the day&apos;s special for quick ordering, the ability
               to browse by category and popular meals. They are also able to add
               meals to their favourites lists, and customise the meal before
               adding it to their order.
@@ -55,7 +55,7 @@ export default function Final() {
           </h3>
 
           <p className="mb-4">
-            It's important to consider accessibility concerns when designing
+            It&apos;s important to consider accessibility concerns when designing
             products or services. I strive to incorporate inclusive design
             practices that ensure usability for all, including people with
             disabilities such as visual, auditory, physical, or cognitive
@@ -100,7 +100,7 @@ export default function Final() {
                   Designing an app is a complex process that requires continuous
                   refinement to meet user needs. The initial designs serve as a
                   foundation for further development, and peer feedback and
-                  usability studies are crucial to the app's design and overall
+                  usability studies are crucial to the app&apos;s design and overall
                   development.
                 </p>
               </div>

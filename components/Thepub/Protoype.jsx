@@ -16,7 +16,7 @@ export default function Prototype() {
             <p className="mb-4">
               Drafting iterations of each screen on paper ensured that necessary
               elements that made it to the digital wireframe would be
-              well-suited to address the user's pain points. For the home
+              well-suited to address the user&apos;s pain points. For the home
               screen, I focused on an easy ordering process.
             </p>
           </div>
@@ -96,7 +96,7 @@ export default function Prototype() {
               the customization section of their app by making it more distinct
               and providing additional information. However, a second study
               revealed that users still found the process tedious. To address
-              this, the author added a "quick-add meals" option to the homepage
+              this, the author added a &quot;quick-add meals&quot; option to the homepage
               to streamline the ordering process.
             </p>
           </div>

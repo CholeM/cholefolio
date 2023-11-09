@@ -43,7 +43,7 @@ export default function Research() {
 
         <p className="pb-4 mb-4">
           The user interviews and surveys conducted were crucial in the UX
-          design process. It helped the team understand the users' needs,
+          design process. It helped the team understand the users&apos; needs,
           behaviours, and attitudes. By gathering insights about users, we can
           create a design that is more effective, efficient, and satisfying to
           use.
@@ -72,7 +72,7 @@ export default function Research() {
 
       <h5 className="pb-8 mb-2 leading-[1.334] text-center text-2xl font-normal italic">
         The goal of the competitive audit compare the ordering process and ease
-        of use of each competitior's app. We determined the following during the
+        of use of each competitior&apos;s app. We determined the following during the
         audit:
       </h5>
 
@@ -87,7 +87,7 @@ export default function Research() {
         </CompetitionAnalysis>
 
         <CompetitionAnalysis title="3">
-          For some competitiors, the user flow wasn't always intuitive
+          For some competitiors, the user flow wasn&apos;t always intuitive
         </CompetitionAnalysis>
       </div>
 

@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import {
   Competition,
@@ -14,11 +15,11 @@ export default function ClientPortal() {
           The client portal would be accessible to clients and approved
           employees.{" "}
           <span className="font-semibold">
-            Include the necessary tools that allow for the setting of a client's
+            Include the necessary tools that allow for the setting of a client&apos;s
             status from active to inactive.
           </span>{" "}
           These tools were important due to the subscription-based nature of
-          Ouro's products. Access must be able to be revoked when need be.
+          Ouro&apos;s products. Access must be able to be revoked when need be.
         </p>
 
         <div className="flex flex-col lg:flex-row gap-4 lg:gap-6">
@@ -53,13 +54,13 @@ export default function ClientPortal() {
 
         <div className="flex flex-col lg:flex-row items-end gap-4 lg:gap-6 pb-12">
           <div className="basis-1/2">
-            <img src="/images/Ouro/Upload.png" width="100%" />
+            <img src="/images/Ouro/Upload.png" width="100%" alt="upload files process" />
             <p className="mb-[0.35em] italic text-center">
               Upload Files Process
             </p>
           </div>
           <div className="basis-1/2">
-            <img src="/images/Ouro/Download.png" width="100%" />
+            <img src="/images/Ouro/Download.png" width="100%" alt="download files process" />
             <p className="mb-[0.35em] italic text-center">
               Download Files Process
             </p>

@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import { ProjectContainer } from "../Project/ProjectSummary";
 
@@ -9,7 +10,7 @@ export default function Design() {
 
         <p className="mb-4">
           I researched similar corporate website designs and possible client
-          portal designs. I based the website design around Ouro's required
+          portal designs. I based the website design around Ouro&apos;s required
           pages and color scheme.
         </p>
         <h4 className="text-3xl sm:text-4xl mb-[0.35em]">
@@ -44,7 +45,7 @@ export default function Design() {
         </h4>
         <p className="mb-4">
           I iterated to ensure I followed design principles and stayed true to
-          the company's branding. I presented these hi-fi wireframes to Ouro and
+          the company&apos;s branding. I presented these hi-fi wireframes to Ouro and
           allowed them to test the prototype. Afterwards, I proceeded with the
           development process.
         </p>

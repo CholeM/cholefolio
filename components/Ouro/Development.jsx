@@ -10,7 +10,7 @@ export default function Development() {
           <h3 className="text-4xl sm:text-5xl mb-[0.35em]">Development</h3>
           <p className="mb-4">
             I developed the website using LAMP Stack (using Laravel framework).
-            Since the design was custom, I built the website's functionality
+            Since the design was custom, I built the website&apos;s functionality
             from the bottom up. I chose AWS Lightsail due to its scalability,
             and the anticipated small size of the website and the files to be
             uploaded. The previous host provider transferred the domain to Ouro
