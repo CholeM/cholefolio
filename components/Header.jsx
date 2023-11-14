@@ -28,14 +28,17 @@ export default function Header() {
           </Link>
         </li>
         <li className="hover:bg-gray-50 flex justify-start items-center relative w-full border-box text-left py-2 px-4">
-          <Link href="/#projects" className=" flex-[1_1_auto] min-w-0 my-px">
+          <Link href="/#about" className=" flex-[1_1_auto] min-w-0 my-px">
             About
           </Link>
         </li>
         <li className="hover:bg-gray-50 flex justify-start items-center relative w-full border-box text-left py-2 px-4">
-          <Link href="/#projects" className=" flex-[1_1_auto] min-w-0 my-px">
+          <Link href="/#contact" className=" flex-[1_1_auto] min-w-0 my-px">
             Contact
           </Link>
+        </li>
+        <li className="py-2 px-4">
+          <Toggle />
         </li>
       </ul>
     </div>
@@ -74,7 +77,7 @@ export default function Header() {
                   "fixed overflow-hidden z-10 bg-gray-900 bg-opacity-25 inset-0 transform ease-in-out transition-opacity opacity-100 duration-500 translate-x-0"
                 }
               >
-                <div className="right-0 bg-white w-64 absolute h-full shadow-xl delay-400 duration-500 ease-in-out transition-all transform translate-x-0">
+                <div className="right-0 bg-white dark:bg-slate-800 text-slate-950 dark:text-slate-50 w-64 absolute h-full shadow-xl delay-400 duration-500 ease-in-out transition-all transform translate-x-0">
                   <div className="relative w-screen max-w-lg h-full">
                     {drawer}
                   </div>
