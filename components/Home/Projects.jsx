@@ -178,9 +178,7 @@ export default function Projects() {
                 Ouro - Corporate Website
               </h4>
               <p className="text-base">
-                A React application that generates a random Anime for user to
-                watch. Includes an anime ranking list for current season and
-                overall.
+                Designing a corporate website and client portal for IT consulting and support services company
               </p>
             </CardContent>
             <CardLink>

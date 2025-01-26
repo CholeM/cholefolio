@@ -60,7 +60,7 @@ export const CompetitionAnalysis = ({ title, children }) => {
 
 export const ProjectContainer = ({ className, children }) => {
   return (
-      <div className={`lg:container mx-auto flex w-full items-center flex-wrap px-4 sm:px-6 ${className}`}>
+      <div className={`lg:container mx-auto flex w-full items-center flex-wrap px-4 sm:px-6 grid`}>
         {children}
       </div>
   )
